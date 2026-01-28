@@ -1,4 +1,3 @@
-# online_retail_powerbi-dashboard
 # Online Retail Sales Analysis – Power BI
 
 ## 📌 Objective
