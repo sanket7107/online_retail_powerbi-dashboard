@@ -18,3 +18,7 @@ Analyze global product demand and identify high-growth regions to support expans
 - Drill-down analysis
 - KPI cards
 - Geo-map demand visualization
+
+
+## 👤 Author
+Sanket Kanase
