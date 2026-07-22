@@ -1,7 +1,9 @@
 # Online Retail Sales Analysis – Power BI
 
 ## 📈 Dashboard Preview
+
 ![Dashboard](OnlineRetail_PowerBI_Analysis/Screenshots/Executive Sales & Demand Overview.png)
+
 ## 📌 Objective
 Analyze global product demand and identify high-growth regions to support expansion strategy.
 
